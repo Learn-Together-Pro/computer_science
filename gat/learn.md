@@ -1,6 +1,6 @@
 # :mortar_board: Learn Graphs and Automata Theory
 
-Awesome collection of learning materials to master modern Graphs and Automata Theory.
+Curated collection of lists of useful resources to master Graphs and Automata Theory together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 

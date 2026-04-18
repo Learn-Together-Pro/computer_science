@@ -1,17 +1,11 @@
-# :mortar_board: Learn Compilers Design
+# :mortar_board: Learn Practical Skills
 
-Curated collection of lists of useful resources to master Compilers Design together.
+Curated collection of lists of useful resources to master Practical Skills together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
 <!-- - []() by [community]() : -->
 <!-- - []() by [community]() :mortar_board: :movie_camera: ( _blender_ ) : -->
-
-## Basics - 0
-
-( _introductory_ ) ( _level_0_ )
-
-- [Compiler Design](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q) by [Neso Academy](https://www.youtube.com/@nesoacademy/playlists) :mortar_board: :movie_camera:
 
 ## Tags legend
 
@@ -37,7 +31,3 @@ Curated collection of lists of useful resources to master Compilers Design toget
 ##### Specific Domain
 
 - ( _introductory_ ) - introductory learning material
-
-##### Specific Technology
-
-- ( _unity_ ) - related to Unity

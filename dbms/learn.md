@@ -1,6 +1,6 @@
-# 🧭 Learn DBMS Together
+# :mortar_board: Learn DBMS
 
-Awesome list of high-quality study materials for learning database management systems.
+Curated collection of lists of useful resources to master Database Management Systems together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 

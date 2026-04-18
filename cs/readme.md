@@ -8,6 +8,6 @@ This repostory contains nearly dozen curated collections: learning materials, to
 
 Here you can find:
 
-- __:mortar_board:__ [Learn](./learn.md) : collection of materials to master Computer Sicence.
-- __:old_key:__ [Comprehend](./concepts.md) : key concepts and dichotomies of Computer Sicence.
-- __:chart_with_upwards_trend:__ [Systemize](./cheatsheets.md) : cheatsheets on Computer Sicence.
+- __:mortar_board:__ [Learn](./learn.md) : collection of materials to master Computer Science.
+- __:old_key:__ [Comprehend](./concept.md) : key concepts and dichotomies of Computer Science.
+- __:chart_with_upwards_trend:__ [Systemize](./cheatsheet.md) : cheatsheets on Computer Science.

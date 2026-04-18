@@ -1,6 +1,6 @@
-# :mortar_board: Learn Probability Theory and Satistics
+# :mortar_board: Learn Probability Theory and Statistics
 
-Awesome collection of learning materials to master modern Probability Theory and Satistics.
+Curated collection of lists of useful resources to master Probability Theory and Statistics together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 

@@ -1,6 +1,6 @@
-# 🧭 Learn Digital Product Together
+# :mortar_board: Learn Digital Product
 
-Awesome list of high-quality study materials for learning Digital Product.
+Curated collection of lists of useful resources to master Digital Product together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
@@ -56,4 +56,4 @@ Awesome list of high-quality study materials for learning Digital Product.
 
 ##### Other Categories
 
-- ( _Digital Product_ ) - database manageement systems
+- ( _Digital Product_ ) - Digital Product related

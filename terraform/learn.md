@@ -1,6 +1,6 @@
-# 🧭 Learn Terraform Together
+# :mortar_board: Learn Terraform
 
-Awesome list of high-quality study materials for learning database management systems.
+Curated collection of lists of useful resources to master Terraform together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 

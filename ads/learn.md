@@ -1,6 +1,6 @@
-# :mortar_board: Learn Algorithms and Data Structures Together
+# :mortar_board: Learn Algorithms and Data Structures
 
-Awesome collection of learning materials to master modern Algorithms and Data Structures.
+Curated collection of lists of useful resources to master Algorithms and Data Structures together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 

@@ -68,4 +68,4 @@ git rebase --onto B D branch1
 
 ### git areas
 
-![cheatsheet](./asset/cheatsheet.jpg)
+![cheatsheet](./cheatsheet/cheatsheet.jpg)

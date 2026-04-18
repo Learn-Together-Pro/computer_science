@@ -1,13 +1,13 @@
 # :mortar_board: Learn Computer Science
 
-Awesome collection of learning materials to master modern Computer Science.
+Curated collection of lists of useful resources to master Computer Science together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
 <!-- - []() by []() :movie_camera: -->
 <!-- - []() by []() :movie_camera: :mortar_board: -->
 
-## Systems Desgin
+## Systems Design
 
 ( _systems_design_ )
 

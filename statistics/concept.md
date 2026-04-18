@@ -1,6 +1,6 @@
-# Key concepts of Probability Theory and Satistics
+# Key concepts of Probability Theory and Statistics
 
-Key concepts of Probability Theory and Satistics.
+Key concepts of Probability Theory and Statistics.
 
 ## Sample
 

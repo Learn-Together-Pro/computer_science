@@ -1,6 +1,6 @@
 # :mortar_board: Learn DevOps
 
-Awesome collection of learning materials to master modern DevOps.
+Curated collection of lists of useful resources to master DevOps together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
